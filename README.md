@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @fekhripasha
-- 👀 I’m student who to learn gamedev.
-- 🌱 I’m currently learning java(beginner) and i am also familier with basics of cpp.
-- 💞️ I’m looking to collaborate on any project that will help me improve my programming skill.
+- 🌱 I’m currently learning java(intermediate) and i am also familier with basics of cpp.
 - 📫 How to reach me adilmehsud786@gmail.com
 
 <!---
