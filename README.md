@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fekhripasha
+- 👋 Hi, I’m @Adil khan
 - 🌱 I’m currently learning java(intermediate) and i am also familier with basics of cpp.
 - 📫 How to reach me adilmehsud786@gmail.com
 
